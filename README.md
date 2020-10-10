@@ -1,4 +1,4 @@
-# Amazon Interview
+# Amazon Interview 2018
 
 ### First Problem
 ![alt tag](https://github.com/Competitive-Programming-2/amazon-interview/blob/main/problem.png)
